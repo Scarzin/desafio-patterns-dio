@@ -1,4 +1,4 @@
-# Desafio design patters com Java
+# Desafio design patterns com Java
 
 Repositório criado com objetivo de cumprir o desafio proposto pela plataforma DIO.
 
